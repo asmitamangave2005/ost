@@ -1,0 +1,11 @@
+mkdir manost
+cd manost
+git init
+git status
+git config --global user.name"asmitamangave2005"
+git remote add origin .....
+touch file.txt
+git status
+git add file.txt
+git commit -m"firstcommit"
+git push origin master
